@@ -1,0 +1,18 @@
+{
+    "name": "wdsgtest",
+    "description": "",
+    "keywords": ["web"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "12345678-1111-1111-1111-123456789111"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "none",
+    "repository": "none",
+    "stack": "container"
+}
